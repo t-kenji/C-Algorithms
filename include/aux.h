@@ -1,0 +1,6 @@
+#ifndef __ALGORITHMS_INTERNAL_AUX_H__
+#define __ALGORITHMS_INTERNAL_AUX_H__
+
+#define UNUSED_VARIABLE(x) (void)(x)
+
+#endif /* __ALGORITHMS_INTERNAL_AUX_H__ */
